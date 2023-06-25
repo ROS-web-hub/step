@@ -17,7 +17,9 @@ npm run dev
 ```
 And then you should confirm about following;
 
-1. installing postgresql
+With navicat 15 or 16, you can create database(tasksdb).
+
+1. installing postgresql 
 2.    - DATABASE_HOST=127.0.0.1
       - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=1234&qwer
