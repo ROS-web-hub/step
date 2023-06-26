@@ -25,5 +25,5 @@ With navicat 15 or 16, you can create database(tasksdb).
       - POSTGRES_PASSWORD=1234&qwer
       - POSTGRES_DB=tasksdb
 
-You can implement postman.
-After you run my project,  if you input like this "post localhost:3000/api/test?value=1489&value2=714", you can see the result as json format.
+You can use postman.
+I deployed the project 77.91.102.202:3000.
