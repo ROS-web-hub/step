@@ -12,8 +12,8 @@ In the database/db.sql,  you should run all query command.
 ```
 git clone https://github.com/FaztWeb/nextjs-postgres-crud-typescript
 cd nextjs-postgres-crud-typescript
-npm install
-npm run dev
+yarn install
+yarn run dev
 ```
 And then you should confirm about following;
 
